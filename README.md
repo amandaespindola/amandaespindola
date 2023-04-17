@@ -4,4 +4,4 @@
 - 🎯 Pronomes ela/dela
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiamandaespindola=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?amandaespindola=anuraghazra&hide=contribs,prs)
