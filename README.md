@@ -3,4 +3,5 @@
 - ☕ Estudando Java
 - 🎯 Pronomes ela/dela
 
-[![amandaespindola GitHub stats](https://github-readme-stats.vercel.app/api?amandaespindola=amandaespindola)](https://github.com/amandaespindola/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiamandaespindola=anuraghazra&hide=contribs,prs)
