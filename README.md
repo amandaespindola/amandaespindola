@@ -1,7 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header"/>
 
-#### Olá! Meu nome é Amanda e sou uma estudante de Sistemas de Informação. Gosto de codar em Java e também de fazer sites usando JS, HTML e CSS. 
-
-<br/>
+#### Hi! My name is Amanda and i'm an student of Information Systems. i like to code in Java and i also enjoy to develop websites with JS, Html and CSS
 
 ![amandaespindola GitHub stats](https://github-readme-stats.vercel.app/api?username=amandaespindola&show_icons=true&text_color=ffffff&theme=react&count_private=true&hide_border=true)
 
@@ -15,30 +14,31 @@
      <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-   <div> <h4>✉️ Contatos</h4> </div>
+   <div> <h4>✉️ Contact Me</h4> </div>
 <div style="display: flex;";> 
  <a" href="mailto:amandaespindola2004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail"></a>
  <a  href=https://www.linkedin.com/in/amanda-esp%C3%ADndola/ target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin"></a>
 <a href=https://www.instagram.com/_espindolamanda/ target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a> 
 
-<br/></br>
+<br/><br/>
 
 
-<div align="center">
+<div align="row">
   <a href="#">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaespindola&layout=compact&langs_count=10&text_color=ffffff&theme=react&hide=jupyter%20notebook&hide_border=true&show_icons"
       alt="Most used languages in my repos"/>
   </a>
   <br>
-  <sup>Preciso codar mais em Java ☕</sup>
+  <div><sup> I need to code more in Java☕</sup> </div>                                  
 </div>
 
 <br/>
 
- #### Estou atualmente estudando Java, SQL e AWS. Tenho interesse em JS porém meu foco atual é em Java.
+ #### I'm currently learning Java, SQL and AWS. I'm interested in JS but im not studying it right now.
 
 
 
  </div>
-<br><br>
+                                           
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
